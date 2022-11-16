@@ -3,8 +3,7 @@ Web scraper to extract files of a given type
 ## Usage
 ```
 pip install -r requirements.txt
-python3 vividly_takehome.py -l https://cms.math.ca/competitions/cmo/ -f 
-"Math Problems"
+python3 vividly_takehome.py -l https://cms.math.ca/competitions/cmo/ -f  "Math Problems"
 ```
 ## Docs
 Argument | Usage | Default | Required |
